@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
--- Thanks to the inspiration of Alex the Analyst.
+-- Thanks to the inspiration of Alex the Analyst (His Github is: https://github.com/AlexTheAnalyst).
 -- This is a SQL project that aims to improve my SQL Querying skill.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
