@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 -- Thanks to the inspiration by Alex the Analyst (His Github can be found here: https://github.com/AlexTheAnalyst).
--- This is a SQL project that aims to improve my SQL Querying skill.
+-- This is a little SQL project that aims to improve my SQL Querying skill.
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 SELECT * 
